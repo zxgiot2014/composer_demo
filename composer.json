@@ -1,0 +1,14 @@
+{
+    "name": "zxgiot2014/composer_demo",
+    "description": "composer test, that any time delete.",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "xgZhou",
+            "email": "zxgiot@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
